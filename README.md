@@ -10,6 +10,7 @@ Icon | Character | Text
 --- | --- | ---
 ![Bootlegger](https://wiki.bloodontheclocktower.com/images/0/08/Icon_bootlegger.png) | **Bootlegger** | This script has homebrew characters or rules.
 ![Djinn](https://wiki.bloodontheclocktower.com/images/8/86/Icon_djinn.png) | **Djinn** | Use the Djinn's special rule. All players know what it is.
+![SpiritofIvory](https://wiki.bloodontheclocktower.com/images/9/96/Icon_spiritofivory.png) | **Spirit of Ivory** | There can't be more than 1 extra evil player.
 
 <ins>**Bagman's Gambit Djinn:**</ins> If the Kazali chooses the Alsaahir on the First Night, a different good character might become the Alsaahir.
 
